@@ -1,1 +1,2 @@
 Hello some changes is done
+Javascript is awesome
